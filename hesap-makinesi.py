@@ -1,4 +1,4 @@
-bosluk =("==========================")
+bosluk =("=========================")
 
 # Toplama Fonksiyonu
 def Topla(x, y):
@@ -17,7 +17,7 @@ def Bol(x, y):
    return x / y
  
 print("Yapılacak İşlemi Seçin.")
-print("==========================")
+print("=========================")
 print("1.Toplama")
 print("2.Çıkarma")
 print("3.Çarpma")
